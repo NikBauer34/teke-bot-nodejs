@@ -8,7 +8,7 @@ function App() {
     
   return (
     <div className="App">
-      work, buztt
+      work
         <button onClick={onClose}>Close</button>
     </div>
   );
