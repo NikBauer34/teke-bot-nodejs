@@ -8,8 +8,7 @@ function App() {
     
   return (
     <div className="App">
-      work
-      busy
+      work, buztt
         <button onClick={onClose}>Close</button>
     </div>
   );
